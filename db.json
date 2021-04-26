@@ -11,7 +11,7 @@
         "american cheese",
         "burger sauce",
         "french mustard",
-        "pickles",
+        "pickes",
         "onion",
         "lettuce"
       ],
@@ -26,14 +26,17 @@
         }
       ]
     },
-
     {
       "id": 1,
       "name": "Pulled Mooshie",
       "restaurant": "Mooshies",
       "web": "www.veganburger.org",
       "description": "Spicy vegan burger with jackfruit",
-      "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+      "ingredients": [
+        "jackfruit",
+        "coleslaw",
+        "gluten free bun"
+      ],
       "addresses": [
         {
           "addressId": 0,
@@ -44,6 +47,5 @@
           "country": "United Kingdom"
         }
       ]
-    }
-  ]
-}
+    }]}
+
