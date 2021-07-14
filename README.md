@@ -1,3 +1,2 @@
-# burger-api
-My Berger API - a tutorial by kubowania
-
+# hot-sauce-api
+My Hot Sauce API
