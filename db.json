@@ -1,51 +1,47 @@
 {
-  "burgers": [
+  "HotSauce": [
     {
       "id": 0,
-      "name": "Tribute Burger",
-      "restaurant": "Honest Burgers",
-      "web": "www.honestburgers.co.uk",
-      "description": "A mouth-watering honest beef burger",
+      "name": "Hot Girl Hot Sauce",
+      "SauceName": "Smokin’ Hot (red blend)",
+      "web": "https://www.shophotgirlhotsauce.com",
+      "description": "Heat level: HOT Suggested Pairings: This sauce is a wonderful compliment to chilaquiles, scrambles eggs, all tacos, as a chicken wing marinade, salad topper, on pizza, mixed with mayo or hummus for a spicier spread.",
       "ingredients": [
-        "beef",
-        "american cheese",
-        "burger sauce",
-        "french mustard",
-        "pickes",
+        "tomatoes",
+        "chili de arbol",
+        "chili in adobo",
+        "garlic",
         "onion",
-        "lettuce"
+        "vinegar",
+        "spices",
+        "water"
       ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "75",
-          "line1": "Venn Street",
-          "line2": "Clapham",
-          "postcode": "SW4 0BD",
-          "country": "United Kingdom"
-        }
-      ]
+      "contact": [{
+          "email": "orders@shophotgirlhotsauce.com",
+          "Instagram": "https://www.instagram.com/hotgirlhotsauce/",
+          "Twitter": "https://twitter.com/hotgirlhotsauce",
+          "Facebook": "https://www.facebook.com/shophotgirlhotsauce"
+        }]
     },
     {
       "id": 1,
-      "name": "Pulled Mooshie",
-      "restaurant": "Mooshies",
-      "web": "www.veganburger.org",
-      "description": "Spicy vegan burger with jackfruit",
+      "name": "Hot Girl Hot Sauce",
+      "SauceName": "Master Beta: (green sauce)",
+      "web": "https://www.shophotgirlhotsauce.com",
+      "description": "Heat Level: HOT. Suggested Pairings: Add some tang to tacos and quesadillas, breakfast burritos, omelettes, fish, and burrito bowls.",
       "ingredients": [
-        "jackfruit",
-        "coleslaw",
-        "gluten free bun"
+        "serrano peppers",
+        "tomatillos",
+        "garlic",
+        "onion",
+        "vinegar",
+        "spices"
       ],
-      "addresses": [
-        {
-          "addressId": 0,
-          "number": "104",
-          "line1": "Brick Lane",
-          "line2": "Shoreditch",
-          "postcode": "E1 6RL",
-          "country": "United Kingdom"
-        }
-      ]
+      "contact": [{
+          "email": "orders@shophotgirlhotsauce.com",
+          "Instagram": "https://www.instagram.com/hotgirlhotsauce/",
+          "Twitter": "https://twitter.com/hotgirlhotsauce",
+          "Facebook": "https://www.facebook.com/shophotgirlhotsauce"
+        }]
     }]}
 
