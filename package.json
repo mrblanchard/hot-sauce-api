@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mrblanchard/hot-sauce-api.git#readme",
   "dependencies": {
+    "heroku": "^7.56.1",
     "json-server": "^0.16.3"
   }
 }
