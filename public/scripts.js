@@ -1,25 +1,22 @@
-const loadData = async () => {
-  try {
-    const url1 = 'https://hot-sauce-api.herokuapp.com/HotSauce/0';
-    const url2 = 'https://hot-sauce-api.herokuapp.com/HotSauce/1';
 
-    const results = await Promise.all([
-      fetch(url1),
-      fetch(url2)
-    ]);
-    const dataPromises = results.map(result => result.json());
-    const finalData = await Promise.all(dataPromises);
-    return finalData;
-  } catch (err) {
-    console.error(err);
-  }
-};
 
-// top level IIFE method
-(async () => {
-  const data = await loadData();
-  console.log(data);
-})();
+    const url = "https://hot-sauce-api.herokuapp.com/HotSauce";
+    async function getSauce(){
+    try{
+        const response = await fetch(url);
+        const data = await response.json();
+        const {name, SauceName, web, description} = data;
+        document.getElementById('name').textContent = name;
+        document.getElementById('sauce').textContent = SauceName;
+        document.getElementById('web').textContent = web;
+        document.getElementById('description').textContent = description;        
+      }
+      catch (err) {
+        console.error(err);
+      }
+    }
+
+  getSauce();
 
 // normal method
 // loadData();
