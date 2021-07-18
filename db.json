@@ -3,21 +3,21 @@
     {
       "id": 0,
       "name": "Hot Girl Hot Sauce",
-      "sauce": "Smokin’ Hot (red blend)",
+      "sauce": "Smokin' Hot (red blend)",
       "web": "https://www.shophotgirlhotsauce.com",
       "description": "Suggested Pairings: This sauce is a wonderful compliment to chilaquiles, scrambles eggs, all tacos, as a chicken wing marinade, salad topper, on pizza, mixed with mayo or hummus for a spicier spread. ",
       "heatlevel": [
         "Heat: Hot"
       ],
       "ingredients": [
-        "tomatoes",
-        "chili de arbol",
-        "chili in adobo",
-        "garlic",
-        "onion",
-        "vinegar",
-        "spices",
-        "water"
+        "Tomatoes",
+        "Chili de arbol",
+        "Chili in adobo",
+        "Garlic",
+        "Onion",
+        "Vinegar",
+        "Spices",
+        "Water"
       ],
       "contact": [
         {
@@ -31,19 +31,19 @@
     {
       "id": 1,
       "name": "Hot Girl Hot Sauce",
-      "SauceName": "Master Beta: (green sauce)",
+      "sauce": "Master Beta: (green sauce)",
       "web": "https://www.shophotgirlhotsauce.com",
       "description": "Suggested Pairings: Add some tang to tacos and quesadillas, breakfast burritos, omelettes, fish, and burrito bowls.",
       "heatlevel": [
         "Heat: Hot"
       ],
       "ingredients": [
-        "serrano peppers",
-        "tomatillos",
-        "garlic",
-        "onion",
-        "vinegar",
-        "spices"
+        "Serrano peppers",
+        "Tomatillos",
+        "Garlic",
+        "Onion",
+        "Vinegar",
+        "Spices"
       ],
       "contact": [
         {
@@ -57,7 +57,7 @@
     {
       "id": 2,
       "name": "PuckerButt Pepper Company",
-      "SauceName": "Reaper Squeezins",
+      "sauce": "Reaper Squeezins",
       "web": "https://puckerbuttpeppercompany.com/products/reaper-squeezins",
       "description": "The hottest and most dangerous sauce we offer. This is the hottest sauce we can produce, using all-natural Ingredients: Reaper Squeezins is very carefully crafted with the world's hottest pepper, Smokin' Ed's Carolina Reaper®.",
       "ingredients": [
@@ -80,9 +80,9 @@
     {
       "id": 3,
       "name": "PuckerButt Pepper Company",
-      "SauceName": "Gator Sauce",
+      "sauce": "Gator Sauce",
       "web": "https://puckerbuttpeppercompany.com/products/gator-squeezins",
-      "description": "The perfect  sauce for those who can handle the heat. The flavor starts floral while the heat slowly builds and lasts. This sauce contains a new pepper that we are currently working to get a new Guinness World Record.",
+      "description": "The perfect sauce for those who can handle the heat. The flavor starts floral while the heat slowly builds and lasts. This sauce contains a new pepper that we are currently working to get a new Guinness World Record.",
       "ingredients": [
         "Pepper",
         "Vinegar",
@@ -103,7 +103,7 @@
     {
       "id": 4,
       "name": "PuckerButt Pepper Company",
-      "SauceName": "I Dare You Stupit",
+      "sauce": "I Dare You Stupit",
       "web": "https://puckerbuttpeppercompany.com/products/i-dare-you-stupit-hot-sauce",
       "description": "This sauce is one of our original sauces from Smokin' Ed's Carolina Reaper®. It's a simple, yet effective pepper and vinegar sauce. You can taste the actual pepper flavor.",
       "ingredients": [
