@@ -1,5 +1,5 @@
 fetch('https://hot-sauce-api.herokuapp.com/HotSauce/',{
-  method: 'DELETE',
+  method: 'POST',
   headers: {
     'Content-Type': 'application/json'
   },
