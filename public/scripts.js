@@ -9,14 +9,16 @@ function getHotSauce() {
 
       data.forEach(function (hotsauce) {
         output += `
-        <ul>
-        <li>Company: ${hotsauce.name}</li>
-        <li>Sauce: ${hotsauce.sauce}</li>
-        <li>Description: ${hotsauce.description}</li>
-        <li>Ingredients: ${hotsauce.ingredients}</li>
-        <li>Heat Level: ${hotsauce.heatlevel}</li>
-        <li>Website: ${hotsauce.web}</li>
+        
+        <ul class="list-group bg-light mt-4">
+        <li class="list-group-item bg-danger text-light">Company: ${hotsauce.name}</li>
+        <li class="list-group-item">Sauce: ${hotsauce.sauce}</li>
+        <li class="list-group-item">Description: ${hotsauce.description}</li>
+        <li class="list-group-item">Ingredients: ${hotsauce.ingredients}</li>
+        <li class="list-group-item">Heat Level: ${hotsauce.heatlevel}</li>
+        <li class="list-group-item ">Website: ${hotsauce.web}</li>
         </ul>
+        
       `;
       });
       document.getElementById('output').innerHTML = output;
