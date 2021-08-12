@@ -7,7 +7,8 @@
       "web": "https://www.shophotgirlhotsauce.com",
       "description": "Suggested Pairings: This sauce is a wonderful compliment to chilaquiles, scrambles eggs, all tacos, as a chicken wing marinade, salad topper, on pizza, mixed with mayo or hummus for a spicier spread. ",
       "heatlevel": [
-        "Heat: Hot"
+        "Heat: Hot",
+        "scale: 6"
       ],
       "ingredients": [
         "Tomatoes, Chili de arbol, Chili de adobo, Garlic, Onion, Vinegar, Spices, Water"
